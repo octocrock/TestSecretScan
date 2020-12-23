@@ -1,0 +1,2 @@
+password=verysecr3tp@ssword
+thumbprint=99sidt2oi3589sglkj53892sdiut98235isdt98723ik5us98d7
